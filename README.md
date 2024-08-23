@@ -67,4 +67,4 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 ## Support
 
-If you have any questions or need help, feel free to open an issue on GitHub or join our community on [Discord](https://discord.gg/hY6wSUR8Xh).
+If you have any questions or need help, feel free to open an issue on GitHub or join our community on [Discord](https://discord.gg/ERmEPsafmR).
