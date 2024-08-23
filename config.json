@@ -1,0 +1,25 @@
+{
+    "welcomeChannelId": "welcome_Channel_Id",
+    "supportRoleIds": [
+        "Staff_Roles_Id_Here"
+    ],
+    "logChannelId": "Ticket_Logs_Channel_Id_Here",
+    "ticketChannelId": "Ticket_Channel_Id_Here",
+    "categories": {
+        "support": "Support_Channel_Id_Here",
+        "sales": "Sales_Channel_Id_Here"
+    },
+    "welcomeMessages": [
+        "Welcome, ${member}! We're so glad to have you as part of our community!",
+        "Hey ${member}, great to see you here! We're excited to have you join us!",
+        "Hello, ${member}! You've just made our community even better by joining!",
+        "Welcome, ${member}! We can't wait to get to know you and have fun together!",
+        "Hi ${member}! It's awesome to have you with us. Let's make some great memories!",
+        "Glad you're here, ${member}! Our community is a friendly place where everyone is welcome.",
+        "Welcome aboard, ${member}! We hope you enjoy your time here with us!",
+        "Hello, ${member}! We're thrilled to have you as part of our community!",
+        "Hey ${member}, welcome! We’re all about good vibes and great people here.",
+        "Welcome, ${member}! Looking forward to all the good times we'll share together!"
+    ]
+}
+  
