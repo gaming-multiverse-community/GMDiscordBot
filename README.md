@@ -4,6 +4,10 @@
 
 GMDiscordBot is a Discord bot developed for the Gaming Multiverse Community. It provides random welcome messages for new users that join the discord and an advanced yet simple ticket system.
 
+## Support
+
+If you have any questions or need help, feel free to open an issue on GitHub or join our community on [Discord](https://discord.gg/ERmEPsafmR).
+
 ## Features
 
 - **Welcome Messages**: Send a random catchy message once a user joins the discord.
@@ -64,7 +68,3 @@ Please ensure your code follows our coding standards and passes all tests.
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
-
-## Support
-
-If you have any questions or need help, feel free to open an issue on GitHub or join our community on [Discord](https://discord.gg/ERmEPsafmR).
